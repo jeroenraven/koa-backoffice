@@ -1,0 +1,19 @@
+{
+  "name": "backoffice-koa",
+  "version": "1.0.0",
+  "description": "Mah backoffice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeroenraven/koa-backoffice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeroenraven/koa-backoffice/issues"
+  },
+  "homepage": "https://github.com/jeroenraven/koa-backoffice#readme"
+}
