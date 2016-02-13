@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/jeroenraven/koa-backoffice/issues"
   },
-  "homepage": "https://github.com/jeroenraven/koa-backoffice#readme"
+  "homepage": "https://github.com/jeroenraven/koa-backoffice#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "koa": "^2.0.0-alpha.3",
+    "koa-bodyparser": "^3.0.0",
+    "koa-generic-session": "^1.10.1",
+    "koa-redis": "^2.0.1",
+    "koa-socket": "^4.0.0",
+    "path-match": "^1.2.3"
+  }
 }
